@@ -1,1 +1,2 @@
-# ml-practical1
+
+This project predicts house prices using the attached dataset.
